@@ -11,7 +11,9 @@
 `conda install -c conda-forge jupyterlab-language-pack-ja-jp`
 ## コードのフォーマット化
 `conda install -c conda-forge jupyterlab_code_formatter`
-## 
+## コード補完
 `conda install -c conda-forge jupyterlab-lsp`
+## 
+`conda install -c conda-forge ipywidgets`
 ## 
 `conda install -c conda-forge black isort ipywidgets 'python-lsp-server[all]'`
