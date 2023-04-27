@@ -5,3 +5,5 @@
 `activate lab`
 ## jupyter labのインストール
 `conda install -c conda-forge jupyterlab`
+## 前提ライブラリ
+`conda install -c conda-forge nodejs`
