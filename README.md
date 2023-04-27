@@ -18,6 +18,8 @@
 ## 
 `conda install -c conda-forge isort`
 ## 
-`conda install -c conda-forge black 'python-lsp-server[all]'`
+`conda install -c conda-forge black`
+## 
+`conda install -c conda-forge 'python-lsp-server[all]'`
 ## 地理情報表示
 `conda install -c conda-forge ipyleaflet`
