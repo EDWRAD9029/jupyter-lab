@@ -17,3 +17,5 @@
 `conda install -c conda-forge ipywidgets`
 ## 
 `conda install -c conda-forge black isort ipywidgets 'python-lsp-server[all]'`
+## 地理情報表示
+`conda install -c conda-forge ipyleaflet`
