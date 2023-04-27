@@ -13,9 +13,11 @@
 `conda install -c conda-forge jupyterlab_code_formatter`
 ## コード補完
 `conda install -c conda-forge jupyterlab-lsp`
-## 
+## いろいろ
 `conda install -c conda-forge ipywidgets`
 ## 
-`conda install -c conda-forge black isort 'python-lsp-server[all]'`
+`conda install -c conda-forge isort`
+## 
+`conda install -c conda-forge black 'python-lsp-server[all]'`
 ## 地理情報表示
 `conda install -c conda-forge ipyleaflet`
