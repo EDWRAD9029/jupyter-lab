@@ -23,3 +23,5 @@
 `conda install -c conda-forge 'python-lsp-server[all]'`
 ## 地理情報表示
 `conda install -c conda-forge ipyleaflet`
+## 
+`conda install scikit-learn`
